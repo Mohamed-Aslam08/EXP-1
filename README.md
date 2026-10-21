@@ -73,12 +73,14 @@ b.  KCL simulation output:
 
 Tabulation:
 
-a.   KVL:
+a. kirchoff's voltage law  (KVL):
+
  ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/3977cbc7f40c72bba1329846a69d23ead5f469d3/kvl%20tab.jpg)
 
 
-b.  KCL:
+b. kirchhoff's current law  (KCL):
 
+![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/86d5e8735cad9608948580951566d8be96f96051/20261021_192955.jpg)
 
 
 RESULT:

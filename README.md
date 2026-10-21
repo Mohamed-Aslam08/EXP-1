@@ -74,7 +74,7 @@ b.  KCL simulation output:
 Tabulation:
 
 a.   KVL:
- 
+ ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/3977cbc7f40c72bba1329846a69d23ead5f469d3/kvl%20tab.jpg)
 
 
 b.  KCL:

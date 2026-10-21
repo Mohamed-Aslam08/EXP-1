@@ -50,13 +50,22 @@ a.   KVL:
 b.  KCL:
  ![image](https://github.com/Mohamed-Aslam08/EXP-1/blob/21256ddffb19d3fc53d52bafd44dd7b968649909/Screenshot%202026-10-21%20133344.png)
 
-Calculation:
+Calculation
 
-a.   KVL:
- ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/10dba6840ff5c4c3a248d7a8ecd9eecf2383c726/kvl.jpg)
+kirchhoff's voltage law (KVL)
 
 
-b.  KCL:
+
+kirchhoff's current law (KCL)
+
+OUTPUT
+
+
+a.   KVL simulation output:
+ 
+
+
+b.  KCL simulation output:
 
 
 

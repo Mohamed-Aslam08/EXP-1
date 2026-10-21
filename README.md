@@ -51,13 +51,9 @@ b.  KCL:
  ![image](https://github.com/Mohamed-Aslam08/EXP-1/blob/21256ddffb19d3fc53d52bafd44dd7b968649909/Screenshot%202026-10-21%20133344.png)
 
 Calculation
-
 kirchhoff's voltage law (KVL)
-
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/11ab50f07918fd2a5070cfa774b2b274b0600a43/kvl.jpg)
-
 kirchhoff's current law (KCL)
-
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/084afbe95169be20d60ad8d92ebce80c0f80aa68/kcl.jpg)
 
 OUTPUT

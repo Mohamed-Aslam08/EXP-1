@@ -56,6 +56,8 @@ kirchhoff's voltage law (KVL)
 
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/11ab50f07918fd2a5070cfa774b2b274b0600a43/kvl.jpg)
 
+
+
 kirchhoff's current law (KCL)
 
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-1/blob/084afbe95169be20d60ad8d92ebce80c0f80aa68/kcl.jpg)
